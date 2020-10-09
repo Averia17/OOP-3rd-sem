@@ -1,0 +1,7 @@
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 4\Lab04\Lab04\bin\Debug\Lab04.exe.config
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 4\Lab04\Lab04\bin\Debug\Lab04.exe
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 4\Lab04\Lab04\bin\Debug\Lab04.pdb
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 4\Lab04\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 4\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 4\Lab04\Lab04\obj\Debug\Lab04.exe
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 4\Lab04\Lab04\obj\Debug\Lab04.pdb
