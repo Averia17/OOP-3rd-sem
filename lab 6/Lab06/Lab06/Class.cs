@@ -17,7 +17,7 @@ namespace Lab06
     {
         void Info();
     }
-    public abstract class Document
+    public abstract partial class Document
     {
         private readonly int id;
         private string title;
@@ -59,24 +59,7 @@ namespace Lab06
             get => dateOfSignature;
             set => dateOfSignature = value;
         }
-        public override bool Equals(object obj)
-        {
-            if (obj == null)
-                return false;
-            if (obj.GetType() != this.GetType())
-                return false;
-            Document odin = (Document)obj;
-            return this.Title == odin.Title;
-        }
-        //переопределение GetHashCode
-        public override int GetHashCode()
-        {
-            int hash = 47, d = 32;
-            string a = Convert.ToString(Title);
-            hash = string.IsNullOrEmpty(a) ? 0 : Title.GetHashCode();
-            hash = (hash * 47) + d.GetHashCode();
-            return hash;
-        }
+     
         public abstract void Info();
         virtual public int GetTotalPrice() { return 0; }
     }
@@ -91,7 +74,7 @@ namespace Lab06
         }
         public override string ToString()   //переопределение метода(во всех классах)
         {
-            return Title + " " + DateOfSignature.ToString("MM/dd/yyyy") + " " + Name + " " + Lastname + " " + NameOfOrganization + " " + servicePrice + "\n";
+            return base.ToString()  + servicePrice;
         }
         public override void Info()
         {
@@ -112,7 +95,7 @@ namespace Lab06
         }
         public override string ToString()   //переопределение метода(во всех классах)
         {
-            return Title + " " + DateOfSignature.ToString("MM/dd/yyyy") + " " + Name + " " + Lastname + " " + NameOfOrganization + " " + servicePrice + "\n";
+            return base.ToString()  + servicePrice;
         }
         public override void Info()
         {
@@ -133,7 +116,7 @@ namespace Lab06
         }
         public override string ToString()   //переопределение метода(во всех классах)
         {
-            return Title + " " + DateOfSignature.ToString("MM/dd/yyyy") + " " + Name + " " + Lastname + " " + NameOfOrganization + " " + totalPrice + "\n";
+            return base.ToString()  + totalPrice;
         }
         public override void Info()
         {
@@ -256,23 +239,25 @@ namespace Lab06
         }
         public void GetDocuments(DateTime firstDate, DateTime lastDate)
         {
+            Console.WriteLine("За период с {0} по {1} имеются следующие документы: ", firstDate.ToString("MM/dd/yyyy"), lastDate.ToString("MM/dd/yyyy"));
             foreach (Receipt item in receipts)
                 if (item.DateOfSignature > firstDate && item.DateOfSignature < lastDate)
-                    Console.WriteLine(item.ToString());
+                    item.Info();
             foreach (Waybill item in waybills)
                 if (item.DateOfSignature > firstDate && item.DateOfSignature < lastDate)
-                    Console.WriteLine(item.ToString());
+                    item.Info();
             foreach (Check item in checks)
                 if (item.DateOfSignature > firstDate && item.DateOfSignature < lastDate)
-                    Console.WriteLine(item.ToString());
+                    item.Info();
         }
 
-        public class BookkeepingController
-        {
-            public void Show(Bookkeeping lib) { lib.ShowList(); }
-            public int Price(Bookkeeping lib, string name) { int a = lib.GetWaybillPrice(name); return a; }
-            public int Count(Bookkeeping lib) { int a = lib.GetCheckCount(); return a; }
-            public void Get(Bookkeeping lib, DateTime firstDate, DateTime lastDate) { lib.GetDocuments(firstDate, lastDate);}
-        }
+
+    }
+    public class BookkeepingController
+    {
+        public void Show(Bookkeeping lib) { lib.ShowList(); }
+        public int Price(Bookkeeping lib, string name) { int a = lib.GetWaybillPrice(name); return a; }
+        public int Count(Bookkeeping lib) { int a = lib.GetCheckCount(); return a; }
+        public void Get(Bookkeeping lib, DateTime firstDate, DateTime lastDate) { lib.GetDocuments(firstDate, lastDate); }
     }
 }

@@ -6,7 +6,31 @@ using System.Threading.Tasks;
 
 namespace Lab06
 {
-
+    public abstract partial class Document
+    {
+        public override bool Equals(object obj)
+        {
+            if (obj == null)
+                return false;
+            if (obj.GetType() != this.GetType())
+                return false;
+            Document odin = (Document)obj;
+            return this.Title == odin.Title;
+        }
+        //переопределение GetHashCode
+        public override int GetHashCode()
+        {
+            int hash = 47, d = 32;
+            string a = Convert.ToString(Title);
+            hash = string.IsNullOrEmpty(a) ? 0 : Title.GetHashCode();
+            hash = (hash * 47) + d.GetHashCode();
+            return hash;
+        }
+        public override string ToString()   //переопределение метода(во всех классах)
+        {
+            return Title + " " + DateOfSignature.ToString("MM/dd/yyyy") + " " + Name + " " + Lastname + " " + NameOfOrganization + " ";
+        }
+    }
     class Program
     {
         static void Main(string[] args)
@@ -24,6 +48,7 @@ namespace Lab06
 
 
             Bookkeeping bkkeeping = new Bookkeeping();
+            BookkeepingController bkkeepingcontroll = new BookkeepingController();
             bkkeeping.AddReceipt(first_receipt);
             bkkeeping.AddWaybill(first_waybill);
             bkkeeping.AddCheck(first_check);
@@ -34,10 +59,16 @@ namespace Lab06
             bkkeeping.AddWaybill(last_waybill);
 
             bkkeeping.ShowList();
+            Console.WriteLine();
 
             Console.WriteLine("Суммарную стоимость продукции заданного наименования по всем накладным = {0}",bkkeeping.GetWaybillPrice("Накладная на машину"));
-            Console.WriteLine(bkkeeping.GetCheckCount());
+            Console.WriteLine();
+
             bkkeeping.GetDocuments(new DateTime(2020, 01, 01), new DateTime(2021, 01, 01));
+            Console.WriteLine();
+            Console.WriteLine("Количество чеков: {0}",bkkeepingcontroll.Count(bkkeeping));
+
         }
     }
+
 }

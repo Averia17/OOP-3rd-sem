@@ -1,0 +1,20 @@
+[
+  {
+    "Client": "Tabolich Artyom",
+    "Organization": "KFC",
+    "Title": "Check",
+    "DateOfSignature": "0001-01-01T00:00:00.000002"
+  },
+  {
+    "Client": "Tabolich Artyom",
+    "Organization": "MacDonalds",
+    "Title": "Check",
+    "DateOfSignature": "0001-01-01T00:00:00.0000005"
+  },
+  {
+    "Client": "Tabolich Artyom",
+    "Organization": "KFC",
+    "Title": "Check",
+    "DateOfSignature": "0001-01-01T00:00:00.000002"
+  }
+]

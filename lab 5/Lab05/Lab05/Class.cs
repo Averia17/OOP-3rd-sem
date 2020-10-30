@@ -169,6 +169,7 @@ namespace Lab05
             set => nameOfOrganization = value;
         }
     }
+
     public static class Printer
     {
         public static void IAmPrinting(Document document)
