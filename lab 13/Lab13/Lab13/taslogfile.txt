@@ -1,0 +1,27 @@
+DiskInfo:
+	Name: C:\
+	Type: Fixed
+	FileSystem: NTFS
+	FreeSpace: total - 106 GB, available - 99 GB
+	TotalSize: 217 GB
+	VolumeLabel: 
+
+	Name: D:\
+	Type: Fixed
+	FileSystem: NTFS
+	FreeSpace: total - 569 GB, available - 530 GB
+	TotalSize: 711 GB
+	VolumeLabel: 
+
+FileInfo:
+	All way : D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 13\Lab13\Lab13
+	Name: Class.cs
+	Capacity: 5421
+	Extension: .cs
+	CreationTime: 15.11.2020 18:33:22
+
+DirInfo:
+	FilesCount: 1
+	Createon time: 04.09.2020 23:42:57
+	SubDirectories: 415
+	Parents: ТРЕТИЙ СЕМЕСТР

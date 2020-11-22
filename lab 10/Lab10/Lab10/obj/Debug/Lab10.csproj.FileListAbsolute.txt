@@ -1,0 +1,7 @@
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 10\Lab10\Lab10\bin\Debug\Lab10.exe.config
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 10\Lab10\Lab10\bin\Debug\Lab10.exe
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 10\Lab10\Lab10\bin\Debug\Lab10.pdb
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 10\Lab10\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 10\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 10\Lab10\Lab10\obj\Debug\Lab10.exe
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 10\Lab10\Lab10\obj\Debug\Lab10.pdb

@@ -142,18 +142,7 @@ namespace Lab03
             output = $"Продукт: {Name}\n UPC: {UPC}\n Производитель: {Producer} \n Цена: {Price} \n Количество: {Quantaty}\n Дата изготовления: {Date.ToString("MM/dd/yyyy")}\n";
             return output; ;
         }
-        public override bool Equals(object obj)
-        {
-            return this.GetHashCode() == obj.GetHashCode();
-        }
-        public override int GetHashCode()//переопределение метода GetHashCode
-        {
-            // 269 или 47 простые
-            int hash = 269;
-            hash = string.IsNullOrEmpty(name) ? 0 : name.GetHashCode();
-            hash = (hash * 47) + producer.GetHashCode();
-            return hash;
-        }
+        
        
 
     }

@@ -60,32 +60,7 @@ namespace Lab08
         {
             this.collection.RemoveAt(pos);
         }
-        public void Save(string CurrentFile)
-        {
-            BinaryFormatter bf = new BinaryFormatter();
-            using (FileStream fs = new FileStream(CurrentFile, FileMode.OpenOrCreate))
-            {
-                bf.Serialize(fs, collection);
-                fs.Close();
-            }
-        }
-
-        public void Upload(string CurrentFile)
-        {
-            BinaryFormatter bf = new BinaryFormatter();
-            using (FileStream fs = new FileStream(CurrentFile, FileMode.OpenOrCreate))
-            {
-                List<T> deser = (List<T>)bf.Deserialize(fs);
-                foreach (T p in deser)
-                {
-                    if (p == null)
-                        continue;
-                    this.Add(p);
-                }
-                fs.Close();
-            }
-        }
-        
+       
         //Запись в json
         public void WriteToJson(string path)
         {
@@ -212,8 +187,7 @@ namespace Lab08
                 tom.Add(b);
                 tom.Add(c);
 
-                list.Save(path);
-                list.Upload(path);
+
                 tom.WriteToJson(jpath);
                 lst.LoadJson(jpath);
                 lst.Show();

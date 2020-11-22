@@ -25,9 +25,9 @@ namespace Lab09
 
             programmer.Show();
 
-            programmer.DeleteEvent += (string message) => Console.WriteLine(message);
+            programmer.DeleteEvent += (string message) => Console.WriteLine(message); 
 
-            programmer.MutateEvent += (string message) =>
+            programmer.MutateEvent += (string message) => // += DisplayRedMessage(string message)
             {
                 // Устанавливаем красный цвет символов
                 Console.ForegroundColor = ConsoleColor.Red;
@@ -56,7 +56,7 @@ namespace Lab09
             Console.WriteLine("До: {0}\nПосле: {1}\n", str, str = A(str));
             A += SecondTask.DelProbel;
             Console.WriteLine("До: {0}\nПосле: {1}\n", str, str = A(str));
-            A += SecondTask.Zaglav;
+            A += SecondTask.Upper;
             Console.WriteLine("До: {0}\nПосле: {1}\n", str, str = A(str));
             A += SecondTask.Letter;
             Console.WriteLine("До: {0}\nПосле: {1}\n", str, str = A(str));

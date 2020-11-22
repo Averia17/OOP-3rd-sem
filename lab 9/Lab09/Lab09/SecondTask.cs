@@ -27,7 +27,7 @@ namespace Lab09
             return str.Replace(" ", string.Empty);//возвр. изменённую строку
         }
 
-        public static string Zaglav(string str)
+        public static string Upper(string str)
         {
             for (int i = 0; i < str.Length; i++)
                 str = str.Replace(str[i], Char.ToUpper(str[i]));
