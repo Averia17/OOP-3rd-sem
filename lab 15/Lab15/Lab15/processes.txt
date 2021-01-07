@@ -1,0 +1,1830 @@
+ID: 2584
+Process name: ETDService
+Priority: 8
+Responding: True
+WorkingSet64: 1835008
+
+ID: 21116
+Process name: Teams
+Priority: 8
+Responding: True
+WorkingSet64: 13434880
+
+ID: 20684
+Process name: ServiceHub.ThreadedWaitDialog
+Priority: 8
+Responding: True
+WorkingSet64: 22138880
+
+ID: 6460
+Process name: ApplicationWebServer
+Priority: 8
+Responding: True
+WorkingSet64: 3747840
+
+ID: 1252
+Process name: dwm
+Priority: 13
+Responding: True
+WorkingSet64: 92172288
+
+ID: 3284
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 9342976
+
+ID: 852
+Process name: wininit
+Priority: 13
+Responding: True
+WorkingSet64: 1753088
+
+ID: 26400
+Process name: msedge
+Priority: 4
+Responding: True
+WorkingSet64: 43192320
+
+ID: 1712
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 2842624
+
+ID: 8492
+Process name: chrome
+Priority: 4
+Responding: True
+WorkingSet64: 23425024
+
+ID: 24984
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5124096
+
+ID: 10760
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 5595136
+
+ID: 24256
+Process name: ServiceHub.IdentityHost
+Priority: 8
+Responding: True
+WorkingSet64: 31182848
+
+ID: 2568
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 23785472
+
+ID: 3860
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4993024
+
+ID: 9616
+Process name: devenv
+Priority: 8
+Responding: True
+WorkingSet64: 252649472
+
+ID: 22720
+Process name: ServiceHub.SettingsHost
+Priority: 8
+Responding: True
+WorkingSet64: 50044928
+
+ID: 14200
+Process name: NisSrv
+Priority: 8
+Responding: True
+WorkingSet64: 11894784
+
+ID: 16416
+Process name: Teams
+Priority: 8
+Responding: True
+WorkingSet64: 237305856
+
+ID: 404
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 17002496
+
+ID: 24516
+Process name: msedge
+Priority: 8
+Responding: True
+WorkingSet64: 8003584
+
+ID: 19796
+Process name: chrome
+Priority: 8
+Responding: True
+WorkingSet64: 367656960
+
+ID: 7508
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4001792
+
+ID: 6432
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 2666496
+
+ID: 12896
+Process name: Calculator
+Priority: 8
+Responding: False
+WorkingSet64: 954368
+
+ID: 17988
+Process name: ServiceHub.Host.CLR.x86
+Priority: 8
+Responding: True
+WorkingSet64: 28581888
+
+ID: 4628
+Process name: ServiceHub.TestWindowStoreHost
+Priority: 8
+Responding: True
+WorkingSet64: 23650304
+
+ID: 11168
+Process name: chrome
+Priority: 10
+Responding: True
+WorkingSet64: 152612864
+
+ID: 2116
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4767744
+
+ID: 17200
+Process name: Microsoft.ServiceHub.Controller
+Priority: 8
+Responding: True
+WorkingSet64: 37855232
+
+ID: 2976
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 5345280
+
+ID: 12512
+Process name: ServiceHub.Host.CLR.x86
+Priority: 8
+Responding: True
+WorkingSet64: 44564480
+
+ID: 23228
+Process name: chrome
+Priority: 8
+Responding: True
+WorkingSet64: 26923008
+
+ID: 14644
+Process name: ServiceHub.ThreadedWaitDialog
+Priority: 8
+Responding: True
+WorkingSet64: 39256064
+
+ID: 1728
+Process name: dllhost
+Priority: 8
+Responding: True
+WorkingSet64: 6062080
+
+ID: 2536
+Process name: nimdnsResponder
+Priority: 8
+Responding: True
+WorkingSet64: 4005888
+
+ID: 19344
+Process name: chrome
+Priority: 4
+Responding: True
+WorkingSet64: 37699584
+
+ID: 6844
+Process name: NIWebServiceContainer
+Priority: 8
+Responding: True
+WorkingSet64: 1994752
+
+ID: 24080
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5742592
+
+ID: 23708
+Process name: chrome
+Priority: 4
+Responding: True
+WorkingSet64: 18530304
+
+ID: 1668
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4968448
+
+ID: 16368
+Process name: ServiceHub.Host.CLR.x86
+Priority: 8
+Responding: True
+WorkingSet64: 21626880
+
+ID: 17612
+Process name: PerfWatson2
+Priority: 8
+Responding: True
+WorkingSet64: 49733632
+
+ID: 3388
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 26718208
+
+ID: 11576
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5611520
+
+ID: 8988
+Process name: Teams
+Priority: 8
+Responding: True
+WorkingSet64: 25063424
+
+ID: 25796
+Process name: msedge
+Priority: 8
+Responding: True
+WorkingSet64: 130584576
+
+ID: 11076
+Process name: steamwebhelper
+Priority: 8
+Responding: True
+WorkingSet64: 8060928
+
+ID: 24296
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5656576
+
+ID: 2084
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 1929216
+
+ID: 13720
+Process name: rundll32
+Priority: 8
+Responding: True
+WorkingSet64: 4403200
+
+ID: 2944
+Process name: RAVBg64
+Priority: 8
+Responding: True
+WorkingSet64: 5599232
+
+ID: 19800
+Process name: msedge
+Priority: 8
+Responding: True
+WorkingSet64: 115093504
+
+ID: 14148
+Process name: audiodg
+Priority: 8
+Responding: True
+WorkingSet64: 22171648
+
+ID: 12472
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 16834560
+
+ID: 14472
+Process name: ServiceHub.Host.CLR.x86
+Priority: 8
+Responding: True
+WorkingSet64: 34725888
+
+ID: 26140
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 12853248
+
+ID: 9832
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 6021120
+
+ID: 10692
+Process name: msedge
+Priority: 8
+Responding: True
+WorkingSet64: 31846400
+
+ID: 18880
+Process name: chrome
+Priority: 8
+Responding: True
+WorkingSet64: 39092224
+
+ID: 4224
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 24461312
+
+ID: 2068
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4710400
+
+ID: 4652
+Process name: ServiceHub.VSDetouredHost
+Priority: 8
+Responding: True
+WorkingSet64: 34893824
+
+ID: 3356
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 9732096
+
+ID: 11112
+Process name: ServiceHub.RoslynCodeAnalysisService32
+Priority: 6
+Responding: True
+WorkingSet64: 71462912
+
+ID: 20160
+Process name: SystemSettings
+Priority: 8
+Responding: False
+WorkingSet64: 1970176
+
+ID: 6796
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 7090176
+
+ID: 10004
+Process name: chrome
+Priority: 4
+Responding: True
+WorkingSet64: 51908608
+
+ID: 21576
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 6348800
+
+ID: 3776
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 13033472
+
+ID: 10092
+Process name: ServiceHub.TestWindowStoreHost
+Priority: 8
+Responding: True
+WorkingSet64: 33886208
+
+ID: 1188
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4079616
+
+ID: 11976
+Process name: ApplicationFrameHost
+Priority: 8
+Responding: True
+WorkingSet64: 8142848
+
+ID: 324
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 13488128
+
+ID: 20580
+Process name: msedge
+Priority: 10
+Responding: True
+WorkingSet64: 92368896
+
+ID: 23316
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5619712
+
+ID: 752
+Process name: csrss
+Priority: 13
+Responding: True
+WorkingSet64: 2555904
+
+ID: 21852
+Process name: chrome
+Priority: 4
+Responding: True
+WorkingSet64: 61202432
+
+ID: 2904
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 6332416
+
+ID: 4196
+Process name: sihost
+Priority: 8
+Responding: True
+WorkingSet64: 22929408
+
+ID: 2040
+Process name: steamwebhelper
+Priority: 8
+Responding: True
+WorkingSet64: 12836864
+
+ID: 8072
+Process name: steamwebhelper
+Priority: 8
+Responding: True
+WorkingSet64: 13656064
+
+ID: 4524
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 5763072
+
+ID: 7856
+Process name: ServiceHub.IdentityHost
+Priority: 8
+Responding: True
+WorkingSet64: 31891456
+
+ID: 26020
+Process name: msedge
+Priority: 4
+Responding: True
+WorkingSet64: 41054208
+
+ID: 14532
+Process name: YourPhone
+Priority: 8
+Responding: True
+WorkingSet64: 2760704
+
+ID: 4008
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 8585216
+
+ID: 6772
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 13991936
+
+ID: 3852
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 3289088
+
+ID: 14528
+Process name: Teams
+Priority: 8
+Responding: True
+WorkingSet64: 50327552
+
+ID: 2028
+Process name: PresentationFontCache
+Priority: 8
+Responding: True
+WorkingSet64: 4333568
+
+ID: 5044
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4431872
+
+ID: 16680
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 7520256
+
+ID: 11604
+Process name: Microsoft.Photos
+Priority: 8
+Responding: True
+WorkingSet64: 4009984
+
+ID: 11368
+Process name: devenv
+Priority: 8
+Responding: True
+WorkingSet64: 277397504
+
+ID: 8056
+Process name: StartMenuExperienceHost
+Priority: 8
+Responding: True
+WorkingSet64: 31756288
+
+ID: 20812
+Process name: MoUsoCoreWorker
+Priority: 8
+Responding: True
+WorkingSet64: 18632704
+
+ID: 5036
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 6148096
+
+ID: 3740
+Process name: explorer
+Priority: 8
+Responding: True
+WorkingSet64: 114405376
+
+ID: 4600
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 12316672
+
+ID: 2444
+Process name: NVDisplay.Container
+Priority: 8
+Responding: True
+WorkingSet64: 7188480
+
+ID: 2012
+Process name: ctfmon
+Priority: 13
+Responding: True
+WorkingSet64: 17006592
+
+ID: 13216
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5615616
+
+ID: 5456
+Process name: IntelCpHeciSvc
+Priority: 8
+Responding: True
+WorkingSet64: 2293760
+
+ID: 15184
+Process name: chrome
+Priority: 4
+Responding: True
+WorkingSet64: 38416384
+
+ID: 1356
+Process name: steamwebhelper
+Priority: 4
+Responding: True
+WorkingSet64: 62636032
+
+ID: 10192
+Process name: SearchApp
+Priority: 8
+Responding: True
+WorkingSet64: 5246976
+
+ID: 1140
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 14856192
+
+ID: 18332
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5746688
+
+ID: 25108
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5627904
+
+ID: 9396
+Process name: ServiceHub.SettingsHost
+Priority: 8
+Responding: True
+WorkingSet64: 40632320
+
+ID: 14928
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 6828032
+
+ID: 19668
+Process name: ServiceHub.VSDetouredHost
+Priority: 8
+Responding: True
+WorkingSet64: 28692480
+
+ID: 5444
+Process name: SystemWebServer
+Priority: 8
+Responding: True
+WorkingSet64: 3186688
+
+ID: 18500
+Process name: Teams
+Priority: 8
+Responding: True
+WorkingSet64: 323551232
+
+ID: 1560
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 2269184
+
+ID: 2420
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 12369920
+
+ID: 3712
+Process name: spoolsv
+Priority: 8
+Responding: True
+WorkingSet64: 5996544
+
+ID: 1124
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 7020544
+
+ID: 16208
+Process name: ServiceHub.RoslynCodeAnalysisService32
+Priority: 6
+Responding: True
+WorkingSet64: 115650560
+
+ID: 8880
+Process name: SettingSyncHost
+Priority: 6
+Responding: True
+WorkingSet64: 5586944
+
+ID: 8016
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 10670080
+
+ID: 7584
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 3182592
+
+ID: 19252
+Process name: chrome
+Priority: 8
+Responding: True
+WorkingSet64: 72364032
+
+ID: 1548
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4259840
+
+ID: 19392
+Process name: cmd
+Priority: 8
+Responding: True
+WorkingSet64: 5029888
+
+ID: 2408
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 7118848
+
+ID: 1544
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 6877184
+
+ID: 680
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 1105920
+
+ID: 16388
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5578752
+
+ID: 684
+Process name: ServiceHub.Host.CLR.x86
+Priority: 8
+Responding: True
+WorkingSet64: 39858176
+
+ID: 1536
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 2748416
+
+ID: 25240
+Process name: GoogleCrashHandler64
+Priority: 4
+Responding: True
+WorkingSet64: 135168
+
+ID: 22620
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 13021184
+
+ID: 2824
+Process name: taskhostw
+Priority: 8
+Responding: True
+WorkingSet64: 14036992
+
+ID: 16568
+Process name: chrome
+Priority: 4
+Responding: True
+WorkingSet64: 35540992
+
+ID: 1528
+Process name: ServiceHub.ThreadedWaitDialog
+Priority: 8
+Responding: True
+WorkingSet64: 48648192
+
+ID: 124
+Process name: Registry
+Priority: 8
+Responding: True
+WorkingSet64: 47697920
+
+ID: 12732
+Process name: ServiceHub.Host.CLR.x86
+Priority: 8
+Responding: True
+WorkingSet64: 38490112
+
+ID: 22644
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5869568
+
+ID: 3248
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 7036928
+
+ID: 3944
+Process name: ETDTouch
+Priority: 8
+Responding: True
+WorkingSet64: 1994752
+
+ID: 22208
+Process name: chrome
+Priority: 4
+Responding: True
+WorkingSet64: 172576768
+
+ID: 6260
+Process name: steamwebhelper
+Priority: 8
+Responding: True
+WorkingSet64: 3833856
+
+ID: 7552
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 6291456
+
+ID: 8844
+Process name: RAVBg64
+Priority: 8
+Responding: True
+WorkingSet64: 6070272
+
+ID: 4532
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 3440640
+
+ID: 23092
+Process name: ServiceHub.TestWindowStoreHost
+Priority: 8
+Responding: True
+WorkingSet64: 35151872
+
+ID: 7116
+Process name: hasplmv
+Priority: 8
+Responding: True
+WorkingSet64: 2211840
+
+ID: 7976
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 16719872
+
+ID: 2696
+Process name: Memory Compression
+Priority: 8
+Responding: True
+WorkingSet64: 234229760
+
+ID: 15300
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5660672
+
+ID: 1076
+Process name: fontdrvhost
+Priority: 8
+Responding: True
+WorkingSet64: 6246400
+
+ID: 4380
+Process name: ServiceHub.Host.CLR.x86
+Priority: 8
+Responding: True
+WorkingSet64: 50466816
+
+ID: 9192
+Process name: Microsoft.ServiceHub.Controller
+Priority: 8
+Responding: True
+WorkingSet64: 49479680
+
+ID: 6324
+Process name: msedge
+Priority: 8
+Responding: True
+WorkingSet64: 73592832
+
+ID: 1932
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 10362880
+
+ID: 12232
+Process name: chrome
+Priority: 8
+Responding: True
+WorkingSet64: 18096128
+
+ID: 13136
+Process name: CompPkgSrv
+Priority: 8
+Responding: True
+WorkingSet64: 5058560
+
+ID: 7532
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 8261632
+
+ID: 10748
+Process name: Cortana
+Priority: 8
+Responding: True
+WorkingSet64: 2985984
+
+ID: 22236
+Process name: Teams
+Priority: 8
+Responding: True
+WorkingSet64: 126988288
+
+ID: 10544
+Process name: ServiceHub.IdentityHost
+Priority: 8
+Responding: True
+WorkingSet64: 29052928
+
+ID: 3216
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 6447104
+
+ID: 4508
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 1810432
+
+ID: 7868
+Process name: SecurityHealthService
+Priority: 8
+Responding: True
+WorkingSet64: 9338880
+
+ID: 12692
+Process name: Microsoft.ServiceHub.Controller
+Priority: 8
+Responding: True
+WorkingSet64: 49868800
+
+ID: 356
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5627904
+
+ID: 9656
+Process name: chrome
+Priority: 8
+Responding: True
+WorkingSet64: 9424896
+
+ID: 10672
+Process name: vsls-agent
+Priority: 8
+Responding: True
+WorkingSet64: 46682112
+
+ID: 18956
+Process name: ServiceHub.SettingsHost
+Priority: 8
+Responding: True
+WorkingSet64: 58478592
+
+ID: 1480
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 5853184
+
+ID: 2772
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4075520
+
+ID: 12236
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5632000
+
+ID: 15268
+Process name: Teams
+Priority: 10
+Responding: True
+WorkingSet64: 173731840
+
+ID: 4492
+Process name: RstMwService
+Priority: 8
+Responding: True
+WorkingSet64: 2113536
+
+ID: 4060
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 3055616
+
+ID: 1472
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 5713920
+
+ID: 15104
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5652480
+
+ID: 19280
+Process name: chrome
+Priority: 8
+Responding: True
+WorkingSet64: 47882240
+
+ID: 12244
+Process name: Microsoft.Msn.Weather
+Priority: 8
+Responding: False
+WorkingSet64: 2437120
+
+ID: 23960
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5726208
+
+ID: 4484
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 2363392
+
+ID: 13408
+Process name: ServiceHub.Host.CLR.x86
+Priority: 8
+Responding: True
+WorkingSet64: 40624128
+
+ID: 4912
+Process name: jhi_service
+Priority: 8
+Responding: True
+WorkingSet64: 1814528
+
+ID: 2756
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 3112960
+
+ID: 2324
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 3858432
+
+ID: 8788
+Process name: OneDrive
+Priority: 8
+Responding: True
+WorkingSet64: 17485824
+
+ID: 3184
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 7380992
+
+ID: 8784
+Process name: RAVBg64
+Priority: 8
+Responding: True
+WorkingSet64: 6152192
+
+ID: 1456
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 7839744
+
+ID: 4472
+Process name: Ascon.CSC.DiagnosticService
+Priority: 8
+Responding: True
+WorkingSet64: 9170944
+
+ID: 2208
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5619712
+
+ID: 4036
+Process name: ETDCtrlHelper
+Priority: 10
+Responding: True
+WorkingSet64: 3706880
+
+ID: 10372
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5718016
+
+ID: 19980
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5742592
+
+ID: 17824
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5644288
+
+ID: 4892
+Process name: devenv
+Priority: 8
+Responding: True
+WorkingSet64: 321986560
+
+ID: 520
+Process name: smss
+Priority: 11
+Responding: True
+WorkingSet64: 344064
+
+ID: 2304
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4489216
+
+ID: 26008
+Process name: msedge
+Priority: 4
+Responding: True
+WorkingSet64: 43933696
+
+ID: 4888
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5742592
+
+ID: 6180
+Process name: ETDCtrl
+Priority: 10
+Responding: True
+WorkingSet64: 9273344
+
+ID: 576
+Process name: vsls-agent
+Priority: 8
+Responding: True
+WorkingSet64: 36429824
+
+ID: 7040
+Process name: taskhostw
+Priority: 8
+Responding: True
+WorkingSet64: 12402688
+
+ID: 756
+Process name: winlogon
+Priority: 13
+Responding: True
+WorkingSet64: 3092480
+
+ID: 2632
+Process name: uihost
+Priority: 8
+Responding: True
+WorkingSet64: 15806464
+
+ID: 1000
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 26697728
+
+ID: 7712
+Process name: ServiceHub.RoslynCodeAnalysisService32
+Priority: 6
+Responding: True
+WorkingSet64: 70799360
+
+ID: 3152
+Process name: NVDisplay.Container
+Priority: 8
+Responding: True
+WorkingSet64: 10448896
+
+ID: 4444
+Process name: OneApp.IGCC.WinService
+Priority: 8
+Responding: True
+WorkingSet64: 8146944
+
+ID: 21596
+Process name: chrome
+Priority: 4
+Responding: True
+WorkingSet64: 80908288
+
+ID: 11776
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 4833280
+
+ID: 21780
+Process name: SteamService
+Priority: 8
+Responding: True
+WorkingSet64: 3125248
+
+ID: 2284
+Process name: SearchIndexer
+Priority: 8
+Responding: True
+WorkingSet64: 23035904
+
+ID: 6160
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 17391616
+
+ID: 8744
+Process name: SecurityHealthSystray
+Priority: 8
+Responding: True
+WorkingSet64: 4530176
+
+ID: 14776
+Process name: chrome
+Priority: 8
+Responding: True
+WorkingSet64: 42029056
+
+ID: 9172
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 5971968
+
+ID: 8740
+Process name: UserOOBEBroker
+Priority: 8
+Responding: True
+WorkingSet64: 4968448
+
+ID: 8244
+Process name: SearchProtocolHost
+Priority: 8
+Responding: True
+WorkingSet64: 6066176
+
+ID: 4428
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 15429632
+
+ID: 20304
+Process name: steamwebhelper
+Priority: 8
+Responding: True
+WorkingSet64: 20914176
+
+ID: 24280
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5623808
+
+ID: 2268
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5767168
+
+ID: 21184
+Process name: MsMpEng
+Priority: 8
+Responding: True
+WorkingSet64: 139374592
+
+ID: 4420
+Process name: IntelCpHDCPSvc
+Priority: 8
+Responding: True
+WorkingSet64: 2244608
+
+ID: 10296
+Process name: GoogleCrashHandler
+Priority: 4
+Responding: True
+WorkingSet64: 118784
+
+ID: 1832
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4218880
+
+ID: 4848
+Process name: nidmsrv
+Priority: 8
+Responding: True
+WorkingSet64: 3158016
+
+ID: 968
+Process name: fontdrvhost
+Priority: 8
+Responding: True
+WorkingSet64: 1052672
+
+ID: 9772
+Process name: chrome
+Priority: 8
+Responding: True
+WorkingSet64: 18333696
+
+ID: 16912
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 12611584
+
+ID: 4412
+Process name: AdminService
+Priority: 8
+Responding: True
+WorkingSet64: 4415488
+
+ID: 16048
+Process name: chrome
+Priority: 4
+Responding: True
+WorkingSet64: 29618176
+
+ID: 13892
+Process name: chrome
+Priority: 8
+Responding: True
+WorkingSet64: 22052864
+
+ID: 4840
+Process name: lkcitdl
+Priority: 8
+Responding: True
+WorkingSet64: 3280896
+
+ID: 6132
+Process name: vsls-agent
+Priority: 8
+Responding: True
+WorkingSet64: 45703168
+
+ID: 14440
+Process name: chrome
+Priority: 8
+Responding: True
+WorkingSet64: 7823360
+
+ID: 14284
+Process name: steam
+Priority: 8
+Responding: True
+WorkingSet64: 40083456
+
+ID: 11732
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 13996032
+
+ID: 4404
+Process name: QcomWlanSrvx64
+Priority: 8
+Responding: True
+WorkingSet64: 2154496
+
+ID: 4832
+Process name: lktsrv
+Priority: 8
+Responding: True
+WorkingSet64: 2936832
+
+ID: 14744
+Process name: chrome
+Priority: 4
+Responding: True
+WorkingSet64: 45092864
+
+ID: 7416
+Process name: FileCoAuth
+Priority: 8
+Responding: True
+WorkingSet64: 8060928
+
+ID: 4396
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 12582912
+
+ID: 2240
+Process name: Video.UI
+Priority: 8
+Responding: False
+WorkingSet64: 2252800
+
+ID: 6980
+Process name: SgrmBroker
+Priority: 8
+Responding: True
+WorkingSet64: 6205440
+
+ID: 15224
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 9297920
+
+ID: 944
+Process name: lsass
+Priority: 9
+Responding: True
+WorkingSet64: 15335424
+
+ID: 14304
+Process name: Teams
+Priority: 8
+Responding: True
+WorkingSet64: 455151616
+
+ID: 22060
+Process name: RuntimeBroker
+Priority: 8
+Responding: True
+WorkingSet64: 9400320
+
+ID: 4436
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 27860992
+
+ID: 924
+Process name: services
+Priority: 9
+Responding: True
+WorkingSet64: 6713344
+
+ID: 16044
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5603328
+
+ID: 7020
+Process name: hasplmv
+Priority: 8
+Responding: True
+WorkingSet64: 2215936
+
+ID: 11708
+Process name: steamwebhelper
+Priority: 8
+Responding: True
+WorkingSet64: 29970432
+
+ID: 2656
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5611520
+
+ID: 17740
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5599232
+
+ID: 9600
+Process name: ServiceHub.VSDetouredHost
+Priority: 8
+Responding: True
+WorkingSet64: 26025984
+
+ID: 10840
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 10653696
+
+ID: 25864
+Process name: FMAPP
+Priority: 8
+Responding: True
+WorkingSet64: 10313728
+
+ID: 13424
+Process name: ShellExperienceHost
+Priority: 8
+Responding: True
+WorkingSet64: 7696384
+
+ID: 2648
+Process name: TextInputHost
+Priority: 8
+Responding: True
+WorkingSet64: 17678336
+
+ID: 2216
+Process name: igfxCUIService
+Priority: 8
+Responding: True
+WorkingSet64: 2445312
+
+ID: 21608
+Process name: Teams
+Priority: 8
+Responding: True
+WorkingSet64: 11866112
+
+ID: 2212
+Process name: PerfWatson2
+Priority: 8
+Responding: True
+WorkingSet64: 41365504
+
+ID: 7304
+Process name: MSBuild
+Priority: 8
+Responding: True
+WorkingSet64: 43311104
+
+ID: 3116
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4075520
+
+ID: 4364
+Process name: servicehost
+Priority: 8
+Responding: True
+WorkingSet64: 19472384
+
+ID: 7380
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 3411968
+
+ID: 8240
+Process name: RAVCpl64
+Priority: 8
+Responding: True
+WorkingSet64: 6447104
+
+ID: 22892
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5746688
+
+ID: 3496
+Process name: RtkAudioService64
+Priority: 8
+Responding: True
+WorkingSet64: 2678784
+
+ID: 3064
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 13062144
+
+ID: 4356
+Process name: lkads
+Priority: 8
+Responding: True
+WorkingSet64: 2424832
+
+ID: 1768
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 6680576
+
+ID: 7800
+Process name: igfxEM
+Priority: 8
+Responding: True
+WorkingSet64: 15712256
+
+ID: 8980
+Process name: PerfWatson2
+Priority: 8
+Responding: True
+WorkingSet64: 49700864
+
+ID: 4348
+Process name: nisvcloc
+Priority: 8
+Responding: True
+WorkingSet64: 1933312
+
+ID: 16844
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5636096
+
+ID: 2620
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 1908736
+
+ID: 22876
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5742592
+
+ID: 10376
+Process name: Lab15
+Priority: 8
+Responding: True
+WorkingSet64: 12926976
+
+ID: 4340
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 29130752
+
+ID: 20168
+Process name: ServiceHub.Host.CLR.x86
+Priority: 8
+Responding: True
+WorkingSet64: 30056448
+
+ID: 20716
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5742592
+
+ID: 2612
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 9224192
+
+ID: 4372
+Process name: niauth_daemon
+Priority: 8
+Responding: True
+WorkingSet64: 2347008
+
+ID: 4332
+Process name: hasplms
+Priority: 8
+Responding: True
+WorkingSet64: 7344128
+
+ID: 1744
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 4464640
+
+ID: 8208
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 10997760
+
+ID: 18264
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 7970816
+
+ID: 4756
+Process name: DolbyDAX2API
+Priority: 8
+Responding: True
+WorkingSet64: 5459968
+
+ID: 23288
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5615616
+
+ID: 19408
+Process name: chrome
+Priority: 8
+Responding: True
+WorkingSet64: 31481856
+
+ID: 11648
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5103616
+
+ID: 872
+Process name: csrss
+Priority: 13
+Responding: True
+WorkingSet64: 4530176
+
+ID: 5180
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 2064384
+
+ID: 2592
+Process name: svchost
+Priority: 8
+Responding: True
+WorkingSet64: 113201152
+
+ID: 2500
+Process name: dasHost
+Priority: 8
+Responding: True
+WorkingSet64: 1179648
+
+ID: 4
+Process name: System
+Priority: 8
+Responding: True
+WorkingSet64: 12115968
+
+ID: 6468
+Process name: NIWebServiceContainer
+Priority: 8
+Responding: True
+WorkingSet64: 1949696
+
+ID: 25000
+Process name: conhost
+Priority: 8
+Responding: True
+WorkingSet64: 5627904
+
+ID: 0
+Process name: Idle
+Priority: 0
+Responding: True
+WorkingSet64: 8192
+

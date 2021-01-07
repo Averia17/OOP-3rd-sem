@@ -1,0 +1,20 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Receipt id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<client href="#ref-3"/>
+<organization href="#ref-4"/>
+<Document_x002B_id>1883592458</Document_x002B_id>
+<Document_x002B_title id="ref-5">Квитанция об оплате интернета</Document_x002B_title>
+<Document_x002B_dateOfSignature>2020-05-12T00:00:00.0000000+03:00</Document_x002B_dateOfSignature>
+</a1:Receipt>
+<a1:Client id="ref-3" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<name id="ref-6">Артём</name>
+<lastname id="ref-7">Таболич</lastname>
+</a1:Client>
+<a1:Organization id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/Lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<nameOfOrganization id="ref-8">Zala</nameOfOrganization>
+</a1:Organization>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+:Body>
+</SOAP-ENV:Envelope>

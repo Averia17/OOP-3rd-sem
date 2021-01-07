@@ -1,0 +1,12 @@
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 14\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 14\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 14\Lab14\Lab14\bin\Debug\Lab14.exe.config
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 14\Lab14\Lab14\bin\Debug\Lab14.exe
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 14\Lab14\Lab14\bin\Debug\Lab14.pdb
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 14\Lab14\Lab14\bin\Debug\System.Private.DataContractSerialization.dll
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 14\Lab14\Lab14\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 14\Lab14\Lab14\obj\Debug\Lab14.csproj.CopyComplete
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 14\Lab14\Lab14\obj\Debug\Lab14.exe
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 14\Lab14\Lab14\obj\Debug\Lab14.pdb
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 14\Lab14\Lab14\bin\Debug\Newtonsoft.Json.dll
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 14\Lab14\Lab14\bin\Debug\Newtonsoft.Json.xml
